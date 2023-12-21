@@ -207,7 +207,8 @@ Weitere:
 
 
 
-
+To-Do-List-Chatgpt:
+https://chat.openai.com/share/54976465-8064-452e-af41-436716af85ab
 
 
 
