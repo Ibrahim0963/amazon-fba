@@ -7,6 +7,7 @@
 	- KDP -> Bücher verkaufen
 	- Merch by Amazon 
 
+## Schritt 1:
 1. Marktforschung
 	Identifiziere Produkte, die eine Nachfrage auf dem Amazon-Marktplatz haben.
 	- **1. Suche eine bestimmte Nische** in welchen Produktkategorien oder Nischen?
@@ -31,6 +32,7 @@
 	- **10. Rechtliche Überlegungen:** Achte darauf, dass die Produkte, die du verkaufen möchtest, alle relevanten rechtlichen Anforderungen erfüllen.
 	- **11. Potenzielle Lieferanten:** Finde zuverlässige Lieferanten für deine Produkte. Untersuche die Lieferanten auf Qualität, Zuverlässigkeit und Preise.
 
+## Schritt 2:
 2. Gewerbeanmeldung und Steuern:
 	- Gewerbe anmelden
 		- Keine Gewinne? -> keine Steuer
@@ -39,6 +41,7 @@
 	- **Steuerverpflichtungen verstehen:** Informiere dich über die steuerlichen Pflichten für dein Unternehmen. Dies kann die Umsatzsteuer, Einkommensteuer und andere relevante Steuern umfassen.
 	- **Fristen beachten:** z.B. die pünktliche Abgabe von Steuererklärungen
 
+## Schritt 3:
 3. Amazon Seller Account erstellen:
 	- Melde dich bei Amazon als Verkäufer an und wähle das FBA-Programm aus. (sell.amazon.de)
 	- Hierbei gibt es verschiedene Kontotypen:
@@ -57,6 +60,7 @@
 			- Barcodes bei GS1 hochladen
 			- und GS1 Zertifikat bestellen
 
+## Schritt 4:
 4. Beschaffung der Produkte:
 	- **1. Definiere deine Produktanforderungen:** welche spezifischen Anforderungen und Qualitätsstandards müssen die Produkte erfüllen . Dies umfasst Aspekte wie Materialien, Größe, Farbe, Verpackung usw.
 	- **2. Online-Plattformen:** 
@@ -74,6 +78,7 @@
 	- **5. Beispielbestellungen ist sehr wichtig:** 
 	- **6. Audits und Inspektionen:** Inspektionsdienste oder Audits von Dritten zu beauftragen, um sicherzustellen, dass die Produkte den vereinbarten Standards entsprechen.	
 
+## Schritt 5:
 5. Produkte kennzeichnen:
 	Produkte müssen den Anforderungen von Amazon gekennzeichnet werden. Dies kann das Hinzufügen von Barcodes oder speziellen Etiketten umfassen.
 	GTIN Nummer bei GS1 kaufen -> Bei Amazon eingeben -> ASIN Nummer ergeben 
@@ -86,11 +91,13 @@
 	- **7. Lagerbestand verfolgen:** Verwende das Seller Central-Dashboard, um deinen Lagerbestand und die Produktkennzeichnung zu verfolgen. Amazon aktualisiert automatisch den Status deiner Produkte im Lager.
 
 
+## Schritt 6:
 6. Sendungen erstellen und zu Amazon senden:
 	- Erstelle Sendungen für deine Produkte und sende sie an die von Amazon angegebenen Lagerhäuser. Amazon übernimmt dann die Lagerung, den Versand und den Kundenservice.
 	- Nachdem die Produkte im Amazon-Lager eingetroffen sind, sind sie für den Verkauf bereit. Kunden können sie bestellen, und Amazon übernimmt den Versand und den Kundenservice.
 
 
+## Schritt 7:
 7. Amazon-Listing erstellen:
 	Erstelle ansprechende Produktlistings mit klaren Bildern und überzeugenden Produktbeschreibungen. Optimiere deine Listings für relevante Suchbegriffe.
 	- **1. In sell.amazon.de einloggen** 
@@ -114,6 +121,7 @@
 	- **12. Gestaltung der Markenregistrierung (falls zutreffend):** Wenn du eine eingetragene Marke hast, kannst du die Markenregistrierung nutzen, um erweiterte Funktionen für deine Produktlistings zu erhalten, wie das Hinzufügen von A+ Content.
 	
 
+## Schritt 8:
 8. Preisstrategie festlegen:
 	Setze einen wettbewerbsfähigen Preis für deine Produkte. Berücksichtige dabei die Kosten, die Konkurrenzpreise und deine Gewinnziele.
 	- **Testen und Anpassen:** Teste verschiedene Preisniveaus und analysiere, wie sich Änderungen auf Verkaufszahlen und Gewinn auswirken. Sei bereit, deine Preisstrategie regelmäßig anzupassen.
@@ -121,6 +129,7 @@
 	- **Überwachung der Konkurrenz:** Halte die Preise der Konkurrenz im Auge und sei bereit, darauf zu reagieren. Dies ist besonders wichtig in dynamischen Märkten.
 	- **Muss noch in Details besprochen werden.**
 
+## Schritt 9:
 9. Marketing und Werbung:
 	Nutze die verschiedenen Marketing- und Werbemöglichkeiten auf der Amazon-Plattform, um die Sichtbarkeit deiner Produkte zu erhöhen. Dazu gehören PPC-Kampagnen (Pay-Per-Click) und andere Werbemaßnahmen.
 	
@@ -134,6 +143,7 @@
 	- **8. Testen und Anpassen:** - Teste verschiedene Werbestrategien und Anzeigenkombinationen. Sammle Daten, analysiere die Ergebnisse und optimiere deine Werbekampagnen kontinuierlich.
 	
 	
+## Schritt 10:
 10. Weitere: 
 	- **Reagiere auf negative Bewertungen**
 	- **Verwende den Early Reviewer Program:** Nutze das "Early Reviewer Program" von Amazon, um die Anzahl der Bewertungen zu erhöhen. Amazon kann Kunden dafür belohnen, dass sie als Erste eine Bewertung für deine Produkte hinterlassen.
@@ -143,7 +153,8 @@
 	- **Differenziere dich von der Konkurrenz:** Biete einzigartige Produkte oder einen besonderen Kundenservice an, um dich von der Konkurrenz abzuheben und positive Bewertungen zu fördern.
 
 
-To-Do-Liste für den Start mit Amazon FBA:
+
+## To-Do-Liste für den Start mit Amazon FBA:
 Amazon Verständnis:
  FBA, FBM, KDP, Merch by Amazon verstehen.
 
